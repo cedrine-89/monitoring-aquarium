@@ -1,0 +1,17 @@
+{
+  "name": "monitoring-aquarium",
+  "version": "1.0.0",
+  "description": "Monitoring Aquarium",
+  "main": "Server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stéphanie Roy",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "onoff": "^6.0.3",
+    "socket.io": "^4.3.1"
+  }
+}
